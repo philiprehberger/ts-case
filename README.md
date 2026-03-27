@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-case/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-case/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/case)](https://www.npmjs.com/package/@philiprehberger/case)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-case)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 String case conversion — camel, snake, kebab, pascal, title, and deep object key conversion.
 
