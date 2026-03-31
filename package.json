@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/case",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "String case conversion — camel, snake, kebab, pascal, title, and deep object key conversion",
   "type": "module",
   "main": "./dist/index.cjs",
